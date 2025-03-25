@@ -25,8 +25,8 @@
 
 Тестовый файл с **типом image** с ссылкой на картинку **https://imgur.com/90icNxE**:
 
-```type=image
-content=https://imgur.com/90icNxE```
+```type=image```
+```content=https://imgur.com/90icNxE```
 
 # ПЕРЕНОС НА JUSTMC
 
