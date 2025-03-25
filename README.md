@@ -33,3 +33,6 @@
 ```/module load AllcetrGD/justfilesharing```
 Затем перейдите в репозиторий и откройте свой файл. Потом нажмите **Raw** и скопируйте ссылку нового окна.
 
+``` test
+test test test
+```
