@@ -12,8 +12,8 @@
 ```content=Текст```
 
 Тестовый файл с **типом текст** с текстом **Hello world**:
-```type=text```
-```content=Hello world```
+
+![2025-03-25_22-49-57](https://github.com/user-attachments/assets/8afccae8-012a-45cd-93a2-070afc9c7e8b)
 
 # ЕСЛИ СОДЕРЖИМОЕ: КАРТИНКА
 
@@ -25,8 +25,7 @@
 
 Тестовый файл с **типом image** с ссылкой на картинку **https://imgur.com/90icNxE**:
 
-```type=image```
-```content=https://imgur.com/90icNxE```
+![2025-03-25_22-51-45](https://github.com/user-attachments/assets/f7c48015-ce0b-4ec7-b0f5-ebd89d1c49dc)
 
 # ПЕРЕНОС НА JUSTMC
 
