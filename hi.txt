@@ -1,1 +1,2 @@
-hi i'm youre friend!
+type=text
+content=hi
