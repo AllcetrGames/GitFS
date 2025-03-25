@@ -12,8 +12,8 @@
 ```content=Текст```
 
 Тестовый файл с **типом текст** с текстом **Hello world**:
-```type=text
-content=Hello world```
+```type=text```
+```content=Hello world```
 
 # ЕСЛИ СОДЕРЖИМОЕ: КАРТИНКА
 
