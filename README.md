@@ -17,22 +17,6 @@
 content=Hello world
 type=text
 ```
-
-# ЕСЛИ СОДЕРЖИМОЕ: КАРТИНКА
-
-Перейдите на https://imgur.com/upload и загрузите свою картинку. После скопируйте ссылку и напишите
-
-```content=Ссылка```
-
-![2025-03-25_22-15-37](https://github.com/user-attachments/assets/3d2e2be9-9d93-49e0-bbd6-9aef7d7ee2eb)
-
-Тестовый файл с **типом image** с ссылкой на картинку **https://imgur.com/90icNxE**:
-
-``` shell
-content=https://imgur.com/90icNxE
-type=image
-```
-
 # ПЕРЕНОС НА JUSTMC
 
 Сначала загрузите модуль JustFS.
