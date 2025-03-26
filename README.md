@@ -1,5 +1,5 @@
-# JustFS #1.0
-Репозиторий для модуля JustFS (JustFileSharing)
+# GitFS #1.0
+Репозиторий для модуля GitFS (GitFileSharing)
 
 # СОЗДАНИЕ ФАЙЛА
 
@@ -36,7 +36,7 @@ type=image
 # ПЕРЕНОС НА JUSTMC
 
 Сначала загрузите модуль JustFS.
-```/module load AllcetrGD/justfilesharing```
+```/module load AllcetrGD/gitfs```
 Затем перейдите в репозиторий и откройте свой файл. Потом нажмите **Raw** и скопируйте ссылку нового окна.
 
 ![2025-03-25_22-56-56](https://github.com/user-attachments/assets/63d45995-038c-4969-9805-0fad1318e47e)
