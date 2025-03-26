@@ -14,8 +14,8 @@
 Тестовый файл с **типом текст** с текстом **Hello world**:
 
 ``` shell
-type=text
 content=Hello world
+type=text
 ```
 
 # ЕСЛИ СОДЕРЖИМОЕ: КАРТИНКА
@@ -29,8 +29,8 @@ content=Hello world
 Тестовый файл с **типом image** с ссылкой на картинку **https://imgur.com/90icNxE**:
 
 ``` shell
-type=image
 content=https://imgur.com/90icNxE
+type=image
 ```
 
 # ПЕРЕНОС НА JUSTMC
